@@ -1,0 +1,1832 @@
+# MASTER PROMPT FINAL — SMART SOAL GENERATOR
+## COMPREHENSIVE SYSTEM ENHANCEMENT, DOCUMENT EDITOR & EXAM CARD GENERATOR
+
+**SMART SOAL GENERATOR**
+
+**BY KLICK ASSETS GENERATOR FT LILIN ANNISA PUTRI S., S.Pd.**
+
+---
+
+# A. PERINTAH UTAMA
+
+Bertindaklah sebagai tim pengembang profesional yang terdiri atas:
+
+- Senior Full-Stack Developer.
+- AI Engineer.
+- Education Technology Architect.
+- Instructional Designer.
+- Database Architect.
+- UI/UX Designer.
+- Document Generation Specialist.
+- Quality Assurance Engineer.
+
+Lakukan penyempurnaan menyeluruh terhadap aplikasi SMART SOAL GENERATOR yang sedang dikembangkan.
+
+Tujuan utama adalah menjadikan aplikasi sebagai platform pendidikan berbasis AI yang profesional, cerdas, akurat, mudah digunakan guru, sesuai dengan sistem pendidikan Indonesia, dan mampu menghasilkan perangkat asesmen serta dokumen administrasi yang siap digunakan.
+
+Lakukan revisi langsung pada aplikasi dan kode yang sudah tersedia.
+
+## Aturan implementasi
+
+1. Jangan membangun ulang aplikasi dari awal.
+2. Pertahankan seluruh fitur yang sudah berjalan dengan baik.
+3. Jangan menghapus data, konfigurasi, maupun komponen yang sudah tersedia.
+4. Jangan mengganti arsitektur utama tanpa alasan teknis yang kuat.
+5. Periksa struktur kode dan database sebelum melakukan perubahan.
+6. Implementasikan perubahan pada logika, struktur data, backend, frontend, dan integrasi API sesuai kebutuhan.
+7. Jangan membuat tombol yang hanya menjadi dekorasi.
+8. Jangan menggunakan data simulasi sebagai pengganti fitur sebenarnya.
+9. Jangan menyatakan fitur selesai apabila belum diuji.
+10. Pastikan seluruh modul saling terintegrasi.
+11. Utamakan kemudahan penggunaan bagi guru, termasuk pengguna awam.
+12. Jangan merusak fitur lama ketika menambahkan fitur baru.
+
+---
+
+# B. BRAND IDENTITY DAN APPLICATION BRANDING
+
+## 1. Identitas resmi
+
+Nama aplikasi:
+
+**SMART SOAL GENERATOR**
+
+Branding:
+
+**BY KLICK ASSETS GENERATOR FT LILIN ANNISA PUTRI S., S.Pd.**
+
+Jangan mengubah ejaan atau susunan identitas tersebut.
+
+## 2. Penerapan branding
+
+Terapkan secara konsisten pada:
+
+- Landing page.
+- Header aplikasi.
+- Dashboard.
+- Sidebar navigasi.
+- Generator soal.
+- Halaman hasil generasi.
+- Modul Exam Card Generator.
+- Modul pengaturan kop.
+- Halaman pengaturan.
+- Halaman bantuan.
+- Loading screen.
+- Footer aplikasi.
+- Dokumen keluaran yang relevan.
+
+## 3. Identitas visual
+
+Gunakan konsep:
+
+- Modern.
+- Profesional.
+- Edukatif.
+- Teknologis.
+- Minimalis.
+- Mudah dikenali.
+
+Jika logo aplikasi sudah tersedia, pertahankan.
+
+## 4. Branding dokumen
+
+Gunakan branding secara proporsional sebagai footer atau identitas pembuat dokumen.
+
+Jangan menjadikan branding aplikasi sebagai pengganti identitas resmi sekolah maupun guru.
+
+Sediakan pengaturan untuk mengaktifkan atau menonaktifkan branding pada dokumen.
+
+Metadata apabila didukung:
+
+- Document Title: SMART SOAL GENERATOR.
+- Author/Creator: KLICK ASSETS GENERATOR FT LILIN ANNISA PUTRI S., S.Pd.
+
+---
+
+# C. SISTEM PENDIDIKAN INDONESIA
+
+## 1. Dukungan kurikulum
+
+- Kurikulum Merdeka.
+- Kurikulum 2013 apabila masih digunakan.
+- Kurikulum resmi lain yang relevan.
+
+Jangan menganggap seluruh sekolah menggunakan kurikulum yang sama.
+
+## 2. Jenjang pendidikan
+
+- PAUD/TK.
+- SD/MI.
+- SMP/MTs.
+- SMA/MA.
+- SMK.
+- Pendidikan kesetaraan.
+- Pendidikan khusus/SLB.
+
+## 3. Fase Kurikulum Merdeka
+
+| Fase | Jenjang/Kelas |
+|---|---|
+| Fondasi | PAUD |
+| A | SD kelas I–II |
+| B | SD kelas III–IV |
+| C | SD kelas V–VI |
+| D | SMP kelas VII–IX |
+| E | SMA/SMK kelas X |
+| F | SMA/SMK kelas XI–XII |
+
+Sesuaikan dengan ketentuan kurikulum yang berlaku.
+
+## 4. Komponen pembelajaran
+
+Dukung:
+
+- Capaian Pembelajaran (CP).
+- Tujuan Pembelajaran (TP).
+- Alur Tujuan Pembelajaran (ATP).
+- Materi pembelajaran.
+- Indikator soal.
+- KKTP.
+- Asesmen pembelajaran.
+
+Untuk Kurikulum 2013, sediakan KI, KD, indikator, dan komponen yang relevan.
+
+Jangan mencampuradukkan istilah CP, TP, ATP, KI, KD, dan KKTP.
+
+Jangan mengarang regulasi atau dokumen kurikulum resmi.
+
+---
+
+# D. MASTER QUESTION GENERATOR
+
+## 1. Jenis soal
+
+Sistem wajib mendukung:
+
+1. Pilihan Ganda.
+2. Pilihan Ganda Kompleks.
+3. Benar atau Salah.
+4. Menjodohkan.
+5. Isian Singkat.
+6. Isian Rumpang.
+7. Jawaban Singkat.
+8. Uraian.
+9. Uraian Terstruktur.
+10. Soal Berbasis Stimulus.
+11. Soal Berbasis Bacaan.
+12. Soal Berbasis Gambar.
+13. Soal Berbasis Tabel.
+14. Soal Berbasis Grafik.
+15. Soal Studi Kasus.
+16. Soal Pemecahan Masalah.
+17. Soal Praktik atau Kinerja.
+
+Setiap jenis soal harus memiliki struktur, format jawaban, kunci jawaban, dan mekanisme penilaian yang sesuai.
+
+## 2. Batas jumlah soal
+
+Terapkan batas berikut:
+
+- Minimal 1 soal.
+- Maksimal 50 soal.
+- Pengguna dapat menentukan jumlah antara 1–50.
+- Tidak boleh menghasilkan lebih dari 50 soal dalam satu proses.
+- Input lebih dari 50 harus ditolak atau dibatasi menjadi 50 dengan pemberitahuan.
+- Nomor soal harus berurutan.
+- Tidak boleh ada nomor duplikat.
+- Jumlah soal harus sesuai permintaan pengguna.
+
+Batas 50 berlaku untuk gabungan seluruh jenis soal, bukan masing-masing jenis.
+
+Contoh:
+
+- 20 pilihan ganda + 10 isian + 5 uraian = 35 soal, diperbolehkan.
+- 30 pilihan ganda + 15 isian + 10 uraian = 55 soal, tidak diperbolehkan.
+
+Terapkan validasi pada frontend, backend, dan proses generasi AI.
+
+---
+
+# E. IMAGE DISTRIBUTION CONTROL — MAKSIMAL 30%
+
+## 1. Ketentuan kuota
+
+Maksimal 30% dari keseluruhan soal boleh menggunakan gambar pendukung.
+
+Minimal 70% soal disajikan tanpa gambar.
+
+Gunakan rumus:
+
+`maxImageQuestions = Math.floor(totalQuestions * 0.30)`
+
+| Jumlah Soal | Maksimal Soal Bergambar |
+|---:|---:|
+| 1 | 0 |
+| 5 | 1 |
+| 10 | 3 |
+| 15 | 4 |
+| 20 | 6 |
+| 25 | 7 |
+| 30 | 9 |
+| 35 | 10 |
+| 40 | 12 |
+| 45 | 13 |
+| 50 | 15 |
+
+Satu soal yang memiliki beberapa gambar tetap dihitung sebagai satu soal bergambar.
+
+## 2. Aturan penggunaan gambar
+
+- Gambar harus memiliki fungsi pedagogis.
+- Jangan menggunakan gambar hanya sebagai hiasan.
+- Jangan membuat gambar untuk seluruh soal.
+- Jangan mengulang gambar hanya untuk memenuhi kuota.
+- Jangan memaksakan gambar apabila tidak diperlukan.
+- Jangan melewati kuota yang ditentukan.
+- Jika kuota nol, seluruh soal wajib tanpa gambar.
+
+## 3. Prioritas pemilihan soal bergambar
+
+AI menentukan soal yang paling layak menggunakan gambar berdasarkan:
+
+1. Relevansi dengan materi.
+2. Kesesuaian dengan tujuan pembelajaran.
+3. Kesesuaian dengan indikator.
+4. Kebutuhan visual.
+5. Tingkat perkembangan peserta didik.
+6. Efektivitas gambar dalam mengukur kompetensi.
+
+Jika kebutuhan gambar melebihi kuota, prioritaskan soal dengan kebutuhan visual tertinggi.
+
+## 4. Tampilan kuota
+
+Tampilkan secara otomatis:
+
+Jumlah soal: 20
+
+Maksimal soal bergambar: 6
+
+Minimal soal tanpa gambar: 14
+
+Perbarui ketika jumlah soal berubah.
+
+---
+
+# F. SMART QUESTION-CONTEXT-AWARE IMAGE GENERATION
+
+Sempurnakan sistem pembuatan gambar agar setiap gambar sesuai dengan isi pertanyaan.
+
+## 1. Analisis sebelum generasi
+
+AI wajib memahami:
+
+- Mata pelajaran.
+- Jenjang.
+- Kelas/fase.
+- Materi.
+- Tujuan pembelajaran.
+- Indikator.
+- Pertanyaan lengkap.
+- Pilihan jawaban.
+- Kunci jawaban.
+- Stimulus.
+- Instruksi guru.
+
+Jangan membuat gambar hanya berdasarkan kata kunci.
+
+## 2. Tahapan analisis
+
+1. QUESTION UNDERSTANDING.
+2. VISUAL NECESSITY ANALYSIS.
+3. VISUAL REQUIREMENT EXTRACTION.
+4. VISUAL TYPE CLASSIFICATION.
+5. IMAGE PROMPT CONSTRUCTION.
+6. QUOTA VALIDATION.
+7. IMAGE GENERATION.
+8. SEMANTIC VALIDATION.
+9. FINAL DISPLAY.
+
+## 3. Klasifikasi kebutuhan visual
+
+- REQUIRED: gambar diperlukan.
+- OPTIONAL: gambar dapat membantu.
+- NOT REQUIRED: gambar tidak diperlukan.
+
+## 4. Struktur data visual
+
+Gunakan data internal:
+
+- question_id.
+- subject.
+- grade.
+- material.
+- learning_objective.
+- question_text.
+- answer_options.
+- answer_key.
+- visual_necessity.
+- visual_purpose.
+- required_objects.
+- required_actions.
+- required_conditions.
+- required_quantities.
+- visual_type.
+- composition.
+- style.
+- aspect_ratio.
+- negative_constraints.
+
+## 5. Konsistensi gambar
+
+Pastikan:
+
+- Objek sesuai.
+- Aktivitas sesuai.
+- Kondisi sesuai.
+- Jumlah objek akurat apabila relevan.
+- Tidak ada informasi yang bertentangan.
+- Tidak ada petunjuk jawaban yang tidak disengaja.
+- Gambar tidak mengubah substansi soal.
+- Gambar terhubung dengan Question ID yang benar.
+
+## 6. Pemilihan teknologi visual
+
+| Kebutuhan | Teknologi |
+|---|---|
+| Ilustrasi manusia, hewan, tumbuhan | AI Image Generation |
+| Fenomena alam | AI Image Generation |
+| Bangun geometri | SVG/Canvas |
+| Grafik dan diagram data | Data-driven renderer |
+| Tabel | HTML/document renderer |
+| Garis bilangan dan pecahan | SVG/Canvas |
+| Peta dan denah | Structured map renderer |
+| Proses ilmiah | Diagram terstruktur atau ilustrasi |
+
+Jangan menggunakan AI image generation untuk angka, teks, label, atau ukuran yang wajib akurat.
+
+## 7. Validasi dan persetujuan guru
+
+Sediakan:
+
+- Pratinjau gambar.
+- Ringkasan visual.
+- Status validasi.
+- Gunakan gambar.
+- Generate ulang.
+- Edit instruksi.
+- Upload manual.
+- Hapus gambar.
+
+Gunakan model vision apabila tersedia.
+
+Jangan menyatakan gambar lolos validasi semantik apabila sistem hanya memeriksa metadata.
+
+Jika pertanyaan berubah secara substansial, tandai gambar sebagai PERLU DITINJAU ULANG.
+
+Jangan menghapus gambar yang sudah disetujui guru tanpa konfirmasi.
+
+---
+
+# G. KECERDASAN VISUAL BERDASARKAN MATA PELAJARAN
+
+## Matematika
+
+Dukung visual:
+
+- Bangun datar.
+- Bangun ruang.
+- Pecahan.
+- Pengukuran.
+- Garis bilangan.
+- Grafik.
+- Diagram.
+- Tabel.
+- Perbandingan.
+- Ilustrasi masalah matematika.
+
+Gunakan renderer terstruktur untuk angka dan ukuran yang harus akurat.
+
+## IPAS/IPA
+
+Dukung visual:
+
+- Daur air.
+- Fotosintesis.
+- Ekosistem.
+- Organ tubuh.
+- Rantai makanan.
+- Fenomena alam.
+- Perubahan wujud benda.
+- Tata surya.
+- Percobaan ilmiah.
+
+## Bahasa Indonesia
+
+Ilustrasi harus sesuai dengan cerita atau bacaan.
+
+## Pendidikan Pancasila
+
+Dukung visual:
+
+- Gotong royong.
+- Musyawarah.
+- Kerja bakti.
+- Toleransi.
+- Kehidupan bermasyarakat.
+- Penerapan nilai Pancasila.
+
+## IPS
+
+Dukung visual:
+
+- Peta.
+- Kegiatan ekonomi.
+- Lingkungan geografis.
+- Perdagangan.
+- Pertanian.
+- Keragaman budaya.
+- Sejarah.
+- Interaksi sosial.
+
+---
+
+# H. MODUL KURIKULUM DAN PEDAGOGI
+
+Sempurnakan:
+
+1. Pemilihan kurikulum.
+2. Pemilihan jenjang.
+3. Pemilihan kelas/fase.
+4. Pemilihan mata pelajaran.
+5. Pengaturan CP.
+6. Pengaturan TP.
+7. Pengaturan ATP.
+8. Pengaturan materi.
+9. Pembuatan indikator.
+10. Pemetaan tujuan pembelajaran.
+11. Tingkat kesulitan.
+12. Taksonomi Bloom C1–C6.
+13. LOTS, MOTS, HOTS.
+14. Diferensiasi pembelajaran.
+15. Soal kontekstual.
+16. Literasi.
+17. Numerasi.
+18. Lintas mata pelajaran.
+
+Pastikan tingkat bahasa, konteks, dan kompleksitas sesuai perkembangan peserta didik.
+
+---
+
+# I. MODUL KISI-KISI DAN BLUEPRINT
+
+Buat kisi-kisi otomatis yang terhubung langsung dengan soal.
+
+Komponen:
+
+- Identitas asesmen.
+- Mata pelajaran.
+- Kelas/fase.
+- Materi.
+- Tujuan pembelajaran.
+- Indikator soal.
+- Bentuk soal.
+- Nomor soal.
+- Level kognitif.
+- Tingkat kesulitan.
+- Bobot soal.
+
+Perubahan soal harus memperbarui kisi-kisi terkait.
+
+---
+
+# J. MODUL ASESMEN DAN PENILAIAN
+
+Dukung:
+
+- Asesmen diagnostik.
+- Asesmen formatif.
+- Asesmen sumatif.
+- Penilaian harian.
+- Penilaian tengah semester apabila digunakan.
+- Penilaian akhir semester apabila digunakan.
+- Penilaian akhir tahun apabila digunakan.
+- Remedial.
+- Pengayaan.
+- Praktik.
+- Proyek.
+- Portofolio.
+
+Sediakan:
+
+1. Kunci jawaban otomatis.
+2. Pembahasan.
+3. Pedoman penskoran.
+4. Rubrik.
+5. Bobot soal.
+6. Konversi nilai.
+7. Bantuan penilaian uraian.
+8. Analisis hasil asesmen.
+9. Rekomendasi remedial.
+10. Rekomendasi pengayaan.
+11. Analisis ketercapaian tujuan pembelajaran.
+
+Penilaian uraian oleh AI harus dapat ditinjau dan dikoreksi guru.
+
+---
+
+# K. INTELLIGENT SCORING SYSTEM — TOTAL NILAI 100
+
+**TOTAL NILAI SELURUH SOAL WAJIB TEPAT 100 POIN.**
+
+## 1. Faktor kesulitan
+
+| Tingkat | Kode | Faktor |
+|---|---|---:|
+| Mudah | Easy | 1 |
+| Sedang | Medium | 2 |
+| Sulit | Hard | 3 |
+
+Tentukan kesulitan berdasarkan kompleksitas materi, penalaran, tahapan penyelesaian, stimulus, dan kesesuaian kelas.
+
+Jangan menentukan kesulitan hanya berdasarkan panjang pertanyaan.
+
+## 2. Rumus pembobotan
+
+`Total Faktor = Σ Faktor Bobot Seluruh Soal`
+
+`Bobot Soal = (Faktor Bobot Soal / Total Faktor) × 100`
+
+Contoh 10 soal:
+
+- 4 soal mudah.
+- 4 soal sedang.
+- 2 soal sulit.
+
+Total faktor = 4 + 8 + 6 = 18.
+
+Bobot teoritis:
+
+- Mudah: 5,555...
+- Sedang: 11,111...
+- Sulit: 16,666...
+
+Total harus tepat 100,00.
+
+## 3. Pembulatan
+
+Gunakan Largest Remainder Method:
+
+1. Hitung dengan presisi penuh.
+2. Ambil nilai dasar dua desimal.
+3. Hitung selisih terhadap 100,00.
+4. Distribusikan sisa pembulatan berdasarkan pecahan desimal terbesar.
+5. Pastikan total akhir tepat 100,00.
+
+Sisa pembulatan dibagikan pada tingkat soal individual.
+
+Jika seluruh soal memiliki tingkat kesulitan sama, bobot dibagi merata.
+
+## 4. Penyesuaian manual
+
+Guru dapat mengubah tingkat kesulitan soal.
+
+Setiap perubahan harus menghitung ulang seluruh bobot.
+
+Simpan:
+
+- question_id.
+- question_number.
+- question_type.
+- difficulty_level.
+- difficulty_weight.
+- score_weight.
+- correct_answer.
+- scoring_criteria.
+- explanation.
+
+## 5. Integrasi berdasarkan jenis soal
+
+- Pilihan ganda: benar penuh, salah 0.
+- Pilihan ganda kompleks: penilaian parsial dengan aturan jelas.
+- Benar-salah: benar penuh, salah 0.
+- Menjodohkan: bobot dibagi berdasarkan jumlah pasangan.
+- Isian singkat: menerima variasi jawaban yang benar.
+- Uraian: menggunakan rubrik dengan total sesuai bobot soal.
+
+## 6. Dashboard nilai
+
+Tampilkan:
+
+- Jumlah soal.
+- Jumlah soal mudah.
+- Jumlah soal sedang.
+- Jumlah soal sulit.
+- Total faktor.
+- Bobot setiap soal.
+- Total nilai.
+- Status validasi.
+
+Status:
+
+- VALID.
+- NEEDS RECALCULATION.
+- INVALID.
+
+Sediakan tombol:
+
+- Hitung Ulang Bobot.
+- Reset Bobot Otomatis.
+- Simpan Pengaturan.
+- Pratinjau Distribusi Nilai.
+
+---
+
+# L. IDENTITAS SEKOLAH DAN GURU
+
+Gunakan profil default:
+
+**Sekolah: UPT SD NEGERI RANDUSARI**
+
+**Guru: LILIN ANNISA PUTRI S., S.Pd.**
+
+Sediakan pengaturan:
+
+- Nama sekolah.
+- Alamat.
+- Logo.
+- NPSN.
+- Tahun pelajaran.
+- Nama guru.
+- NIP.
+- Pangkat/golongan.
+- Jabatan.
+- Mata pelajaran.
+- Unit kerja.
+- Tanda tangan.
+
+Jangan mengarang alamat, NPSN, NIP, atau tanda tangan.
+
+NIP opsional. Jika kosong, sembunyikan dari dokumen.
+
+Pisahkan branding aplikasi, identitas sekolah, dan identitas guru.
+
+---
+
+# M. KOP DOKUMEN EDITOR
+## FITUR PENGEDITAN KOP YANG MUDAH, FLEKSIBEL, DAN PROFESIONAL
+
+Tambahkan modul khusus bernama:
+
+**KOP DOKUMEN EDITOR**
+
+Modul ini menjadi salah satu fitur utama SMART SOAL GENERATOR.
+
+Tujuannya adalah memudahkan guru membuat, mengedit, menyimpan, dan menggunakan kop dokumen tanpa harus memahami desain grafis atau mengubah kode aplikasi.
+
+Pengguna harus dapat mengedit kop secara visual melalui antarmuka yang sederhana.
+
+## 1. Prinsip utama
+
+Terapkan prinsip:
+
+**EDIT MUDAH — LIVE PREVIEW — SIMPAN TEMPLATE — GUNAKAN KEMBALI.**
+
+Guru tidak perlu mengedit kop secara manual pada setiap dokumen.
+
+Kop yang telah dibuat dapat digunakan kembali untuk berbagai jenis dokumen.
+
+## 2. Posisi menu
+
+Tambahkan menu:
+
+**Pengaturan Dokumen → Editor Kop**
+
+atau menu khusus:
+
+**KOP DOKUMEN**
+
+Tempatkan pada area yang mudah ditemukan.
+
+Sediakan tombol akses cepat:
+
+- Buat Kop Baru.
+- Edit Kop.
+- Pratinjau Kop.
+- Simpan Kop.
+- Gunakan Kop.
+- Kelola Template.
+
+## 3. Pengaturan identitas kop
+
+Sediakan kolom yang dapat diedit secara langsung:
+
+### Identitas utama
+
+- Nama instansi atau sekolah.
+- Nama yayasan apabila diperlukan.
+- Nama dinas atau lembaga induk.
+- Nama unit pendidikan.
+- Nama sekolah.
+- Status sekolah, apabila diperlukan.
+
+### Informasi pendukung
+
+- Alamat lengkap.
+- Desa/kelurahan.
+- Kecamatan.
+- Kabupaten/kota.
+- Provinsi.
+- Kode pos.
+- Nomor telepon.
+- Email.
+- Website.
+- NPSN.
+- Informasi tambahan.
+
+Semua kolom bersifat opsional kecuali nama instansi atau sekolah yang dipilih sebagai identitas utama.
+
+Jangan mengarang alamat, nomor telepon, email, website, atau NPSN.
+
+Gunakan profil sekolah yang sudah tersedia sebagai nilai awal.
+
+Default nama sekolah:
+
+**UPT SD NEGERI RANDUSARI**
+
+Seluruh data tetap dapat diubah oleh pengguna.
+
+## 4. Pengaturan logo kop
+
+Sediakan pengelolaan logo secara mudah.
+
+Fitur:
+
+- Upload logo kiri.
+- Upload logo kanan.
+- Upload satu logo.
+- Upload dua logo.
+- Ganti logo.
+- Hapus logo.
+- Crop gambar.
+- Atur ukuran.
+- Atur posisi.
+- Atur jarak logo dengan teks.
+- Atur proporsi logo.
+- Pratinjau logo.
+
+Format yang didukung:
+
+- PNG.
+- JPG.
+- JPEG.
+- WEBP.
+
+Pertahankan rasio asli logo.
+
+Jangan meregangkan atau mengubah bentuk logo.
+
+Jika logo transparan, pertahankan transparansinya.
+
+Sediakan placeholder apabila logo belum diunggah.
+
+Jangan membuat logo resmi sekolah secara otomatis tanpa persetujuan pengguna.
+
+## 5. Editor tata letak kop
+
+Sediakan pilihan layout:
+
+**LAYOUT A — LOGO KIRI**
+
+Logo di sebelah kiri dan identitas sekolah di sebelah kanan.
+
+**LAYOUT B — LOGO TENGAH**
+
+Logo berada di bagian tengah atas dengan identitas sekolah di bawahnya.
+
+**LAYOUT C — DUA LOGO**
+
+Logo kiri dan kanan dengan identitas sekolah di tengah.
+
+**LAYOUT D — TANPA LOGO**
+
+Menggunakan teks identitas saja.
+
+**LAYOUT E — CUSTOM**
+
+Pengguna dapat mengatur tata letak sesuai kebutuhan.
+
+Jadikan Layout A sebagai pilihan awal.
+
+## 6. Pengaturan teks kop
+
+Pengguna dapat mengubah:
+
+- Nama instansi.
+- Nama dinas.
+- Nama yayasan.
+- Nama sekolah.
+- Alamat.
+- Kontak.
+- Informasi tambahan.
+
+Sediakan pengaturan:
+
+- Ukuran font.
+- Jenis font.
+- Ketebalan font.
+- Huruf kapital.
+- Perataan teks.
+- Jarak antarbaris.
+- Jarak antarparagraf.
+- Warna teks.
+- Tinggi area kop.
+
+Sediakan kontrol sederhana berupa pilihan ukuran, tombol perataan, dan pengaturan jarak.
+
+Jangan memaksa pengguna memasukkan kode HTML atau CSS.
+
+## 7. Pengaturan garis kop
+
+Sediakan beberapa pilihan garis:
+
+- Garis tunggal.
+- Garis ganda.
+- Garis tebal.
+- Garis tipis.
+- Garis kombinasi tebal dan tipis.
+- Tanpa garis.
+- Garis custom.
+
+Pengguna dapat mengatur:
+
+- Ketebalan.
+- Warna.
+- Jarak dari teks.
+- Jarak dari isi dokumen.
+- Panjang garis.
+- Posisi garis.
+
+Gunakan garis horizontal yang rapi dan proporsional.
+
+Pastikan garis kop tidak terpisah atau berpindah ke halaman berikutnya.
+
+## 8. Live Visual Editor
+
+Buat editor visual dengan dua area utama:
+
+**PANEL KIRI — PENGATURAN**
+
+Berisi formulir identitas, logo, teks, ukuran, warna, dan garis.
+
+**PANEL KANAN — LIVE PREVIEW**
+
+Menampilkan hasil kop secara langsung.
+
+Setiap perubahan harus langsung memperbarui pratinjau tanpa perlu memuat ulang halaman.
+
+Untuk perangkat seluler, tampilkan pengaturan dan pratinjau secara responsif.
+
+Sediakan tombol:
+
+- Edit.
+- Undo.
+- Redo.
+- Reset.
+- Simpan.
+- Simpan Sebagai Template.
+- Pratinjau Ukuran Penuh.
+
+Jangan menyediakan kontrol yang tidak berfungsi.
+
+## 9. Pengaturan posisi dan ukuran
+
+Sediakan pengaturan:
+
+- Posisi logo.
+- Lebar logo.
+- Tinggi logo.
+- Posisi teks.
+- Lebar area teks.
+- Tinggi kop.
+- Jarak atas.
+- Jarak bawah.
+- Margin kiri.
+- Margin kanan.
+- Posisi garis.
+
+Sediakan pengaturan sederhana melalui slider atau input angka.
+
+Gunakan satuan milimeter untuk pengaturan dokumen cetak.
+
+Sediakan tombol:
+
+**KEMBALIKAN KE PENGATURAN AWAL**
+
+## 10. Template kop siap pakai
+
+Sediakan template:
+
+1. Kop Sekolah Formal.
+2. Kop Surat Resmi.
+3. Kop Dokumen Asesmen.
+4. Kop Lembar Soal.
+5. Kop Dokumen Sederhana.
+6. Kop Dua Logo.
+7. Kop Custom.
+
+Template harus dapat diedit.
+
+Jangan mengunci desain sehingga pengguna tidak dapat melakukan penyesuaian.
+
+## 11. Pengaturan kop untuk berbagai dokumen
+
+Kop harus dapat diterapkan pada:
+
+- Lembar soal.
+- Kisi-kisi.
+- Kunci jawaban.
+- Kartu soal.
+- Pedoman penskoran.
+- Rubrik penilaian.
+- LKPD.
+- Rekap nilai.
+- Analisis hasil asesmen.
+- Program remedial.
+- Program pengayaan.
+- Dokumen administrasi sekolah.
+
+Sediakan pengaturan penerapan:
+
+- Gunakan kop untuk semua dokumen.
+- Gunakan kop untuk dokumen terpilih.
+- Tanpa kop.
+- Gunakan template berbeda.
+
+Pengguna dapat menentukan template kop default.
+
+## 12. Pengaturan halaman pertama dan halaman berikutnya
+
+Sediakan pilihan:
+
+- Kop tampil pada setiap halaman.
+- Kop hanya pada halaman pertama.
+- Halaman berikutnya menggunakan header sederhana.
+- Tanpa kop pada halaman berikutnya.
+
+Untuk dokumen yang memiliki banyak halaman, pastikan kop tidak menghabiskan ruang terlalu besar.
+
+## 13. Pengaturan ukuran kertas
+
+Dukung:
+
+- A4.
+- F4/Folio.
+- Letter.
+- Custom.
+
+Pastikan kop menyesuaikan lebar halaman secara otomatis.
+
+Logo dan teks tidak boleh keluar dari area cetak.
+
+## 14. Penyimpanan template kop
+
+Simpan konfigurasi kop sebagai data terstruktur.
+
+Contoh metadata:
+
+- header_id.
+- header_name.
+- school_profile_id.
+- left_logo.
+- right_logo.
+- institution_name.
+- department_name.
+- school_name.
+- address.
+- contact.
+- website.
+- email.
+- npsn.
+- font_family.
+- font_size.
+- font_weight.
+- text_alignment.
+- line_style.
+- line_thickness.
+- line_color.
+- logo_position.
+- logo_dimensions.
+- header_height.
+- page_settings.
+- created_at.
+- updated_at.
+
+Sesuaikan struktur dengan database aplikasi yang sudah ada.
+
+Sediakan:
+
+- Simpan template.
+- Duplikasi template.
+- Ubah nama template.
+- Edit template.
+- Hapus template dengan konfirmasi.
+- Jadikan default.
+- Terapkan ke dokumen.
+
+Jangan menghapus template lama tanpa konfirmasi.
+
+## 15. Integrasi dengan profil sekolah
+
+Hubungkan Editor Kop dengan profil sekolah.
+
+Jika pengguna mengubah nama sekolah atau alamat pada profil sekolah, berikan pilihan:
+
+- Perbarui profil saja.
+- Perbarui profil dan kop default.
+- Pertahankan kop yang sudah tersimpan.
+
+Jangan mengubah template kop yang sudah disetujui secara otomatis tanpa persetujuan.
+
+## 16. Integrasi dengan ekspor DOCX dan PDF
+
+Kop harus benar-benar tertanam dalam hasil ekspor.
+
+Pastikan:
+
+- Logo tidak hilang.
+- Teks tidak berubah posisi.
+- Garis tidak terpotong.
+- Font konsisten.
+- Ukuran proporsional.
+- Margin sesuai.
+- Kop tidak menimpa judul dokumen.
+- Kop tidak mengganggu isi soal.
+- Kop tampil sesuai pilihan halaman pertama atau seluruh halaman.
+
+Jangan hanya menampilkan kop pada pratinjau aplikasi.
+
+Pastikan hasil DOCX dan PDF memiliki struktur visual yang sesuai.
+
+## 17. Integrasi dengan kartu peserta ujian
+
+Kartu peserta ujian dapat menggunakan identitas sekolah dan logo dari profil sekolah.
+
+Namun, sediakan pilihan terpisah:
+
+- Gunakan identitas sekolah.
+- Gunakan logo sekolah.
+- Gunakan kop lengkap.
+- Gunakan header kartu sederhana.
+
+Jangan memaksakan kop surat berukuran besar pada kartu peserta ujian karena dapat mengurangi ruang identitas peserta.
+
+## 18. Kemudahan penggunaan
+
+Utamakan pengalaman pengguna yang sederhana.
+
+Pengguna harus dapat:
+
+1. Membuka Editor Kop.
+2. Mengunggah logo.
+3. Mengisi identitas sekolah.
+4. Memilih layout.
+5. Mengatur garis.
+6. Melihat pratinjau.
+7. Menyimpan template.
+8. Menggunakan kop pada dokumen.
+
+Selesaikan proses tersebut tanpa mengharuskan pengguna memahami desain grafis atau pemrograman.
+
+Sediakan petunjuk singkat di setiap bagian yang membutuhkan penjelasan.
+
+---
+
+# N. KOTAK NILAI DAN FORMAT LEMBAR SOAL
+
+Sediakan kotak NILAI di kanan atas halaman pertama.
+
+Ketentuan:
+
+- Ruang cukup untuk menulis nilai.
+- Garis tepi jelas.
+- Ukuran proporsional.
+- Bisa diaktifkan atau dinonaktifkan.
+- Posisi dan ukuran dapat diatur.
+- Tidak ditampilkan pada dokumen yang tidak memerlukannya.
+
+Pastikan kotak nilai tidak bertabrakan dengan kop dokumen.
+
+Atur posisi kop dan kotak nilai agar keduanya memiliki ruang yang cukup.
+
+---
+
+# O. PROFESSIONAL OUTPUT LAYOUT ENGINE
+
+Seluruh output harus rapi, konsisten, dan siap dicetak.
+
+## 1. Identitas dokumen
+
+Susun:
+
+- Kop sekolah jika diaktifkan.
+- Judul asesmen.
+- Mata pelajaran.
+- Kelas/fase.
+- Semester.
+- Tahun pelajaran.
+- Materi.
+- Hari/tanggal.
+- Alokasi waktu.
+- Nama peserta didik.
+- Nomor absen.
+- Kotak nilai.
+
+## 2. Penataan soal
+
+Pastikan:
+
+- Nomor berurutan.
+- Jarak antarsoal konsisten.
+- Pertanyaan tidak saling menempel.
+- Pilihan jawaban rapi.
+- Indentasi konsisten.
+- Teks tidak terpotong.
+- Tidak ada elemen bertumpuk.
+- Gambar dekat dengan pertanyaan terkait.
+- Tabel dan diagram tidak terpotong.
+- Soal dan pilihan jawaban tetap dalam satu kelompok apabila memungkinkan.
+
+## 3. Tata letak dua kolom
+
+Default pilihan ganda menggunakan dua kolom.
+
+Sediakan:
+
+- Satu Kolom.
+- Dua Kolom.
+- Otomatis.
+
+Soal panjang, gambar besar, tabel, dan diagram kompleks dapat menggunakan satu kolom secara otomatis.
+
+## 4. Tipografi
+
+Rekomendasi:
+
+- Font Arial atau font profesional yang tersedia.
+- Teks soal 10–12 pt.
+- Judul 14–16 pt.
+- Subjudul 11–13 pt.
+- Spasi proporsional.
+- Margin sesuai ukuran kertas.
+- Teks utama hitam.
+
+## 5. Konsistensi
+
+Pastikan konsistensi pada:
+
+- Aplikasi.
+- Pratinjau.
+- DOCX.
+- PDF.
+- Lembar soal.
+- Kunci jawaban.
+- Kisi-kisi.
+- Pedoman penskoran.
+- Rubrik.
+
+---
+
+# P. MODUL QUESTION BANK DAN EDITOR
+
+Sempurnakan:
+
+- Editor soal.
+- Edit pertanyaan.
+- Edit pilihan jawaban.
+- Edit kunci jawaban.
+- Edit pembahasan.
+- Ubah jenis soal.
+- Sederhanakan bahasa.
+- Perbaiki tata bahasa.
+- Kembangkan pertanyaan.
+- Buat variasi soal.
+- Duplikasi soal.
+- Hapus soal.
+- Pencarian.
+- Kategori.
+- Favorit.
+- Riwayat revisi.
+- Pengelolaan gambar.
+- Pengelolaan sumber.
+
+Setiap perubahan harus memperbarui relasi soal, gambar, kunci jawaban, kisi-kisi, dan bobot nilai.
+
+---
+
+# Q. MODUL EXAM CARD GENERATOR
+## PEMBUATAN KARTU PESERTA UJIAN OTOMATIS
+
+Tambahkan modul:
+
+**EXAM CARD GENERATOR**
+
+Gunakan gambar referensi yang diberikan sebagai acuan desain utama.
+
+Jangan menyalin data pribadi yang terlihat pada referensi. Gunakan hanya susunan dan struktur visualnya.
+
+## 1. Desain kartu
+
+Gunakan format horizontal (landscape), formal, sederhana, dan siap cetak.
+
+Susunan:
+
+1. Bingkai luar berbentuk persegi panjang.
+2. Judul kegiatan di tengah atas.
+3. Tahun pelajaran di bawah judul.
+4. Garis pemisah header.
+5. Identitas peserta di sisi kiri.
+6. Foto di bagian kiri bawah.
+7. Tempat dan tanggal penerbitan di kanan bawah.
+8. Ruang tanda tangan kepala sekolah.
+9. Nama kepala sekolah dan NIP opsional.
+
+## 2. Contoh isi kartu
+
+KARTU PESERTA UJIAN
+
+TAHUN PELAJARAN 2026/2027
+
+Nama: [NAMA PESERTA]
+
+Nomor Peserta: [NOMOR PESERTA]
+
+Tempat, Tanggal Lahir: [TEMPAT, TANGGAL LAHIR]
+
+Kelas: [KELAS]
+
+Ruang: [RUANG]
+
+Nomor Meja: [NOMOR MEJA]
+
+Randusari, [TANGGAL] 2026
+
+Kepala Sekolah,
+
+[RUANG TANDA TANGAN]
+
+[NAMA KEPALA SEKOLAH]
+
+NIP. [OPSIONAL]
+
+## 3. Pilihan judul
+
+- Kartu Peserta Ujian.
+- Kartu Peserta Asesmen Sumatif.
+- Kartu Peserta Penilaian Akhir Semester.
+- Kartu Peserta Penilaian Akhir Tahun.
+- Kartu Peserta Try Out.
+- Kartu Peserta Ujian Sekolah.
+- Judul khusus.
+
+## 4. Data peserta
+
+Sediakan:
+
+- Nama lengkap.
+- Nomor peserta.
+- NIS.
+- NISN opsional.
+- Tempat lahir.
+- Tanggal lahir.
+- Kelas.
+- Ruang ujian.
+- Nomor meja.
+- Foto peserta.
+
+## 5. Input massal
+
+Dukung:
+
+- XLSX.
+- CSV.
+- Template Excel.
+- Pemetaan kolom.
+- Pratinjau.
+- Validasi data.
+- Deteksi duplikasi.
+- Peringatan data tidak lengkap.
+- Edit data.
+
+## 6. Foto peserta
+
+Sediakan:
+
+- Upload individual.
+- Upload massal.
+- Crop.
+- Atur posisi.
+- Atur ukuran.
+- Pratinjau.
+- Ganti foto.
+- Hapus foto.
+
+Rasio awal 3:4.
+
+Jangan memasangkan foto dengan peserta yang salah.
+
+## 7. Editor kartu
+
+Sediakan:
+
+- Edit teks.
+- Posisi teks.
+- Ukuran font.
+- Jenis font.
+- Ukuran foto.
+- Crop.
+- Ketebalan garis.
+- Warna garis.
+- Jarak antarbagian.
+- Posisi tanda tangan.
+- Reset desain.
+
+Template:
+
+- Classic Official.
+- Modern Minimalist.
+- School Identity.
+- Custom Layout.
+
+## 8. Ukuran dan cetak
+
+Sediakan:
+
+- Ukuran khusus sesuai referensi.
+- A6 Landscape.
+- Custom dalam milimeter.
+- A4.
+- F4/Folio.
+- Letter.
+
+Jumlah kartu per halaman:
+
+- 1.
+- 2.
+- 4.
+- 6.
+- Otomatis.
+
+Sediakan garis potong dan pengaturan jarak antarkartu.
+
+## 9. Pengelolaan kartu
+
+Sediakan:
+
+- Pencarian nama.
+- Pencarian nomor peserta.
+- Filter kelas.
+- Filter ruang.
+- Cetak peserta terpilih.
+- Cetak seluruh peserta.
+- Cetak ulang.
+- Regenerasi kartu.
+
+## 10. Ekspor
+
+Sediakan:
+
+- PDF siap cetak.
+- DOCX apabila didukung.
+- Pratinjau.
+- Cetak satuan.
+- Cetak massal.
+
+## 11. Integrasi kop
+
+Kartu peserta dapat mengambil logo dan identitas sekolah dari profil sekolah.
+
+Sediakan pilihan menggunakan kop lengkap atau header kartu sederhana.
+
+Jangan memaksakan kop surat besar pada kartu peserta.
+
+---
+
+# R. MODUL EKSPOR DOKUMEN TERPADU
+
+Pertahankan dan sempurnakan:
+
+- DOCX.
+- PDF.
+- XLSX apabila diperlukan.
+- Pratinjau cetak.
+
+Jenis dokumen:
+
+1. Lembar soal.
+2. Kunci jawaban.
+3. Kisi-kisi.
+4. Kartu soal.
+5. Pedoman penskoran.
+6. Rubrik penilaian.
+7. Lembar jawaban.
+8. Rekap nilai.
+9. Analisis hasil asesmen.
+10. Program remedial.
+11. Program pengayaan.
+12. LKPD.
+13. Kartu peserta ujian.
+
+Ukuran:
+
+- A4.
+- F4/Folio.
+- Letter.
+- Custom.
+
+Pastikan kop, logo, identitas sekolah, identitas guru, branding, gambar, nomor halaman, margin, dan tata letak tampil konsisten.
+
+---
+
+# S. DESAIN ANTARMUKA DAN IDENTITAS VISUAL
+
+Pertahankan warna hijau profesional.
+
+| Elemen | Warna |
+|---|---|
+| Primary | #15803D |
+| Deep Green | #14532D |
+| Emerald | #16A34A |
+| Light Green | #DCFCE7 |
+| Soft Green | #F0FDF4 |
+| Accent | #22C55E |
+| White | #FFFFFF |
+| Slate | #64748B |
+| Gray | #F1F5F9 |
+| Dark Background | #0F172A |
+| Dark Surface | #1E293B |
+
+Sediakan:
+
+- Light Mode.
+- Dark Mode.
+- System Mode.
+
+Utamakan:
+
+- Navigasi sederhana.
+- Tampilan bersih.
+- Responsif desktop, tablet, dan seluler.
+- Mudah digunakan guru pemula.
+- Status proses AI terlihat.
+- Pesan kesalahan mudah dipahami.
+- Formulir sederhana.
+- Live preview untuk editor kop dan kartu.
+
+---
+
+# T. AI INTELLIGENCE DAN QUALITY ASSURANCE
+
+Sempurnakan kemampuan AI untuk:
+
+1. Menganalisis materi.
+2. Membaca PDF dan DOCX.
+3. Memahami gambar.
+4. Membuat soal kontekstual.
+5. Memeriksa fakta.
+6. Mendeteksi soal ambigu.
+7. Mendeteksi duplikasi.
+8. Memeriksa kualitas distraktor.
+9. Memeriksa konsistensi kunci jawaban.
+10. Memeriksa tingkat kesulitan.
+11. Memeriksa kesesuaian usia.
+12. Memeriksa bias.
+13. Memeriksa kesesuaian indikator.
+14. Memeriksa relevansi gambar.
+15. Memberikan skor kualitas soal.
+16. Memberikan rekomendasi perbaikan.
+17. Memastikan hasil sesuai instruksi guru.
+
+Gunakan Bahasa Indonesia baku, efektif, jelas, dan sesuai tingkat perkembangan peserta didik.
+
+Jangan mengarang fakta, peraturan, CP, atau referensi pendidikan.
+
+---
+
+# U. OTOMASI, PENYIMPANAN, DAN KEAMANAN
+
+Sempurnakan:
+
+- Profil guru.
+- Profil sekolah.
+- Template dokumen.
+- Template soal.
+- Template kop.
+- One-click generation.
+- Batch generation maksimal 50 soal.
+- Penyimpanan otomatis.
+- Riwayat pekerjaan.
+- Bank soal.
+- Analitik penggunaan.
+- Pengelolaan biaya API.
+- Pengaturan model AI.
+- Penanganan error.
+- Pengelolaan data peserta.
+- Penyimpanan foto peserta.
+- Penyimpanan template kop.
+
+Jangan menempatkan API key di frontend.
+
+Validasi file yang diunggah dan batasi akses data sesuai hak pengguna.
+
+Jangan menghapus data atau template tanpa konfirmasi.
+
+---
+
+# V. MASTER VALIDATION ENGINE
+
+Sebelum hasil ditampilkan, jalankan pemeriksaan:
+
+| Komponen | Standar |
+|---|---|
+| Jumlah soal | Minimal 1, maksimal 50 |
+| Nomor soal | Berurutan |
+| Jenis soal | Sesuai permintaan |
+| Distribusi gambar | Maksimal 30% |
+| Relevansi gambar | Sesuai pertanyaan |
+| Kunci jawaban | Konsisten |
+| Distraktor | Logis |
+| Kisi-kisi | Sesuai soal |
+| Tujuan pembelajaran | Sesuai materi |
+| Level kognitif | Sesuai kompetensi |
+| Tingkat kesulitan | Sesuai kelas |
+| Total skor | Tepat 100 |
+| Bobot soal | Sesuai kesulitan |
+| Rubrik uraian | Sesuai bobot |
+| Kop dokumen | Sesuai pengaturan |
+| Logo kop | Tidak terdistorsi |
+| Tata letak | Rapi |
+| Branding | Tepat |
+| Kartu ujian | Data benar |
+| Foto peserta | Tidak tertukar |
+| Ekspor dokumen | Tidak terpotong |
+
+Jika terdapat kesalahan, perbaiki sebelum hasil ditampilkan.
+
+Jangan mengubah data yang telah disetujui guru tanpa konfirmasi.
+
+---
+
+# W. PENGUJIAN MENYELURUH
+
+## 1. Pengujian jumlah soal
+
+Uji 10, 20, 30, 40, dan 50 soal.
+
+Pastikan jumlah hasil tepat sesuai permintaan.
+
+Uji 51 soal dan pastikan ditolak atau dibatasi menjadi 50.
+
+## 2. Pengujian gambar
+
+Uji:
+
+- 10 soal: maksimal 3 bergambar.
+- 20 soal: maksimal 6 bergambar.
+- 30 soal: maksimal 9 bergambar.
+- 40 soal: maksimal 12 bergambar.
+- 50 soal: maksimal 15 bergambar.
+- 1 soal: tidak bergambar karena kuota 0.
+
+## 3. Pengujian skor
+
+Uji:
+
+- Seluruh soal mudah.
+- Seluruh soal sedang.
+- Seluruh soal sulit.
+- Kombinasi kesulitan.
+- Perubahan kesulitan.
+- Uraian dengan rubrik.
+- Penilaian parsial.
+
+Pastikan total tepat 100,00.
+
+## 4. Pengujian kop dokumen
+
+Uji:
+
+1. Membuat kop baru.
+2. Mengedit nama sekolah.
+3. Mengedit alamat.
+4. Mengunggah logo kiri.
+5. Mengunggah logo kanan.
+6. Mengganti logo.
+7. Menghapus logo.
+8. Mengatur ukuran logo.
+9. Mengubah jenis dan ukuran font.
+10. Mengubah perataan teks.
+11. Mengubah garis kop.
+12. Mengubah jarak dan margin.
+13. Menggunakan Layout A sampai E.
+14. Menggunakan template.
+15. Menyimpan template.
+16. Mengubah template default.
+17. Menggunakan kop pada lembar soal.
+18. Menggunakan kop pada kisi-kisi.
+19. Menggunakan kop pada kunci jawaban.
+20. Menggunakan kop pada dokumen lainnya.
+21. Menguji kop hanya di halaman pertama.
+22. Menguji kop pada seluruh halaman.
+23. Mengekspor DOCX.
+24. Mengekspor PDF.
+25. Memastikan tampilan ekspor sama dengan pratinjau.
+
+Pastikan tidak ada logo hilang, teks terpotong, garis berpindah, atau kop bertumpuk dengan isi dokumen.
+
+## 5. Pengujian kartu ujian
+
+Uji:
+
+- Pembuatan kartu manual.
+- Pembuatan kartu massal.
+- Import XLSX.
+- Import CSV.
+- Upload foto.
+- Pencocokan foto.
+- Edit data.
+- Edit template.
+- Cetak satuan.
+- Cetak massal.
+- Ekspor PDF.
+- Ekspor DOCX jika didukung.
+
+## 6. Regression testing
+
+Pastikan seluruh fitur lama tetap berjalan.
+
+Jangan sampai terjadi:
+
+- Tombol tidak berfungsi.
+- Data hilang.
+- Gambar tertukar.
+- Soal tidak tersimpan.
+- Ekspor gagal.
+- Tampilan rusak.
+- Navigasi bermasalah.
+- Template kop berubah tanpa izin.
+- Data kartu ujian mengubah data soal.
+- Modul baru merusak modul lama.
+
+---
+
+# X. PRIORITAS IMPLEMENTASI
+
+**PRIORITAS 1 — BRAND IDENTITY**
+
+Nama aplikasi dan branding.
+
+**PRIORITAS 2 — CORE QUESTION GENERATOR**
+
+Generator soal, batas 50 soal, validasi jumlah.
+
+**PRIORITAS 3 — IMAGE INTELLIGENCE**
+
+Kuota gambar 30%, analisis kebutuhan visual, dan validasi.
+
+**PRIORITAS 4 — INTELLIGENT SCORING**
+
+Tingkat kesulitan, bobot, total 100 poin, dan rubrik.
+
+**PRIORITAS 5 — EDUCATION SYSTEM**
+
+Kurikulum, jenjang, fase, CP, TP, ATP, dan kisi-kisi.
+
+**PRIORITAS 6 — KOP DOKUMEN EDITOR**
+
+Editor visual, logo, identitas sekolah, garis, template, live preview, dan integrasi ekspor.
+
+**PRIORITAS 7 — PROFESSIONAL OUTPUT**
+
+Penataan dokumen, dua kolom, kotak nilai, DOCX, dan PDF.
+
+**PRIORITAS 8 — EXAM CARD GENERATOR**
+
+Data peserta, foto, import massal, desain kartu, dan cetak.
+
+**PRIORITAS 9 — USER EXPERIENCE**
+
+UI/UX, Light/Dark Mode, penyimpanan, dan optimasi API.
+
+**PRIORITAS 10 — QUALITY ASSURANCE**
+
+Pengujian fungsional, integrasi, regresi, dan perbaikan bug.
+
+---
+
+# Y. KRITERIA KEBERHASILAN AKHIR
+
+Aplikasi dinyatakan berhasil apabila:
+
+1. Nama SMART SOAL GENERATOR diterapkan secara konsisten.
+2. Branding pengembang diterapkan secara tepat.
+3. Generator mampu membuat 1–50 soal.
+4. Tidak menghasilkan lebih dari 50 soal.
+5. Gambar tidak melebihi 30%.
+6. Gambar relevan dengan pertanyaan.
+7. Gambar terhubung dengan Question ID.
+8. Soal sesuai kurikulum dan jenjang.
+9. Kisi-kisi dan kunci jawaban konsisten.
+10. Total nilai tepat 100 poin.
+11. Bobot nilai sesuai tingkat kesulitan.
+12. Rubrik uraian terintegrasi.
+13. Dokumen tersusun rapi.
+14. DOCX dan PDF dapat diekspor.
+15. Layout dua kolom berfungsi.
+16. Identitas sekolah dan guru benar.
+17. Kotak nilai berfungsi.
+18. Kop dapat dibuat dan diedit tanpa mengubah kode.
+19. Logo dan teks kop dapat disesuaikan.
+20. Template kop dapat disimpan dan digunakan kembali.
+21. Live preview kop berfungsi.
+22. Kop tampil konsisten dalam DOCX dan PDF.
+23. Kartu peserta ujian dapat dibuat otomatis.
+24. Import data peserta berfungsi.
+25. Foto peserta tidak tertukar.
+26. Kartu dapat dicetak satuan dan massal.
+27. Light Mode dan Dark Mode berfungsi.
+28. Seluruh fitur lama tetap berjalan.
+29. Tidak terdapat fitur palsu.
+30. Seluruh fitur yang dinyatakan selesai telah diuji.
+
+---
+
+# Z. FORMAT LAPORAN IMPLEMENTASI
+
+Setelah implementasi, berikan laporan dengan kategori:
+
+- COMPLETED & VERIFIED.
+- IMPLEMENTED, NOT FULLY VERIFIED.
+- PARTIALLY IMPLEMENTED.
+- BLOCKED BY DEPENDENCY.
+- NOT IMPLEMENTED.
+
+Sertakan:
+
+1. Modul yang diperbaiki.
+2. Branding yang diterapkan.
+3. Fitur baru yang diterapkan.
+4. Perubahan kode dan struktur.
+5. Bug yang ditemukan dan diperbaiki.
+6. Hasil pengujian.
+7. Kendala teknis.
+8. Dependensi yang masih dibutuhkan.
+9. Fitur yang belum selesai.
+10. Rekomendasi tindakan berikutnya.
+
+Jangan menyatakan semua fitur selesai apabila masih ada bagian yang belum diuji.
+
+---
+
+# AA. FINAL EXECUTION COMMAND
+
+SEKARANG LAKUKAN REVISI DAN PENYEMPURNAAN MENYELURUH TERHADAP APLIKASI SMART SOAL GENERATOR YANG SUDAH ADA.
+
+Nama aplikasi:
+
+**SMART SOAL GENERATOR**
+
+Branding:
+
+**BY KLICK ASSETS GENERATOR FT LILIN ANNISA PUTRI S., S.Pd.**
+
+Laksanakan seluruh instruksi dalam satu sistem yang terintegrasi.
+
+Prioritaskan kemudahan penggunaan bagi guru.
+
+Khusus untuk KOP DOKUMEN EDITOR, pastikan pengguna dapat membuat dan mengedit kop melalui antarmuka visual tanpa harus mengubah kode, mengedit HTML, atau menulis CSS.
+
+Pastikan setiap perubahan memiliki pratinjau langsung dan dapat disimpan sebagai template untuk digunakan kembali.
+
+Jangan hanya membuat rancangan, laporan, atau rekomendasi.
+
+Implementasikan perubahan langsung pada kode aplikasi.
+
+Jangan membangun aplikasi baru.
+
+Jangan menghapus fitur lama yang masih berfungsi.
+
+Jangan membuat fitur simulasi.
+
+Jangan mengorbankan kestabilan aplikasi demi menambahkan fitur baru.
+
+Periksa setiap modul, implementasikan perubahan, jalankan pengujian, perbaiki kesalahan, dan verifikasi hasilnya.
+
+Jika ada keterbatasan API atau dependensi, implementasikan bagian yang memungkinkan dan laporkan kendalanya secara transparan.
+
+Jangan mengklaim keberhasilan tanpa bukti pengujian.
+
+**TARGET AKHIR:**
+
+Mewujudkan SMART SOAL GENERATOR sebagai platform pendidikan berbasis AI yang profesional, cerdas, akurat, mudah digunakan guru, mampu menghasilkan soal berkualitas, menggunakan gambar secara proporsional, menerapkan penilaian total 100 poin, menghasilkan dokumen yang rapi, menyediakan editor kop yang mudah digunakan, serta membuat kartu peserta ujian secara otomatis dan massal.
+
+**PRESERVE WHAT WORKS. SIMPLIFY THE WORKFLOW. IMPROVE THE SYSTEM. INTEGRATE EVERY MODULE. IMPLEMENT AND VERIFY EVERYTHING.**
